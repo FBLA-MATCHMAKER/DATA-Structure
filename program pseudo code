@@ -1,0 +1,31 @@
+public class Program {
+
+	//	All of these private int's will be in their own class.
+	
+	private static final int F7 = 0; //	7th grade Females
+
+	private static final int F8 = 0; // 8th grade Females
+
+	private static final int F9 = 0; // 9th grade Females
+	
+	private static final int M7 = 0; // 7th grade Males
+	
+	private static final int M8 = 0; // 8th grade Males
+	
+	private static final int M9 = 0; // 9th grade Males
+
+	public static void main(String[] args) {
+		
+		//	int [] name = {1,2,3,4}; //	EXAMPLE
+		
+		//	The program will create the array itself.
+		
+		int [] OliviaAlpe = {F8,3,1,2,2,1,2,2,4,3,3,2,4,2,3,2,1,3,3,1,1,1,1,1,3,1,3,3,1,4,2};
+
+		
+		//	Printing out data will be in its own class
+		System.out.println(OliviaAlpe[15]);
+
+	}
+
+}
