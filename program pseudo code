@@ -2,17 +2,17 @@ public class Program {
 
 	//	All of these private int's will be in their own class.
 	
-	private static final int F7 = 0; //	7th grade Females
+	private static final int F7 = 1; //	7th grade Females
 
-	private static final int F8 = 0; // 8th grade Females
+	private static final int F8 = 2; // 8th grade Females
 
-	private static final int F9 = 0; // 9th grade Females
+	private static final int F9 = 3; // 9th grade Females
 	
-	private static final int M7 = 0; // 7th grade Males
+	private static final int M7 = 4; // 7th grade Males
 	
-	private static final int M8 = 0; // 8th grade Males
+	private static final int M8 = 5; // 8th grade Males
 	
-	private static final int M9 = 0; // 9th grade Males
+	private static final int M9 = 6; // 9th grade Males
 
 	public static void main(String[] args) {
 		
